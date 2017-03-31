@@ -1,0 +1,21 @@
+body {
+background: pink;
+font-family: fantasy;
+}
+
+p {
+
+}
+
+
+h2 {
+
+}
+.small-img {
+  height: 100px;
+  /*width: 100px;*/
+}
+.user-form{
+  border: 2px solid black;
+  margin-right: 30%;
+}
